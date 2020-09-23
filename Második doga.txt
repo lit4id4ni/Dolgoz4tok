@@ -1,0 +1,15 @@
+"A" csoport
+    1. Mi a különbség a teli és az üres elem között? Példával!
+        {<body>
+        </body>}-->Ez egy üres elem.
+
+        {<body>
+            <p>Ez itt egy példa</br>
+               2020.09.23.</p> 
+        </body>}-->Ez egy teli elem.    
+    2.Sorolj fel három meta elemet!
+        <meta charset='UTF-8' />
+        <meta http requiv='refresh' content='5' />
+        <meta name..... />
+    3. Emmet utasítás átírása: p>({Példa: }span{ez itt egy példa}+{ az Emmet-ről.})
+        <p>Példa: <span>Ez egy példa</span>az Emmet-ről.</p>    
